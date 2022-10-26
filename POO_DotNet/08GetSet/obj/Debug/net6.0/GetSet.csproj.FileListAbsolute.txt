@@ -1,0 +1,15 @@
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\bin\Debug\net6.0\GetSet.exe
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\bin\Debug\net6.0\GetSet.deps.json
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\bin\Debug\net6.0\GetSet.runtimeconfig.json
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\bin\Debug\net6.0\GetSet.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\bin\Debug\net6.0\GetSet.pdb
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\obj\Debug\net6.0\GetSet.csproj.AssemblyReference.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\obj\Debug\net6.0\GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\obj\Debug\net6.0\GetSet.AssemblyInfoInputs.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\obj\Debug\net6.0\GetSet.AssemblyInfo.cs
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\obj\Debug\net6.0\GetSet.csproj.CoreCompileInputs.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\obj\Debug\net6.0\GetSet.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\obj\Debug\net6.0\refint\GetSet.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\obj\Debug\net6.0\GetSet.pdb
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\obj\Debug\net6.0\GetSet.genruntimeconfig.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\GetSet\obj\Debug\net6.0\ref\GetSet.dll

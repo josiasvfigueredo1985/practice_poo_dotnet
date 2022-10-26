@@ -1,0 +1,15 @@
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\obj\Debug\net6.0\04ExerciseBMI.csproj.AssemblyReference.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\obj\Debug\net6.0\04ExerciseBMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\obj\Debug\net6.0\04ExerciseBMI.AssemblyInfoInputs.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\obj\Debug\net6.0\04ExerciseBMI.AssemblyInfo.cs
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\obj\Debug\net6.0\04ExerciseBMI.csproj.CoreCompileInputs.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\bin\Debug\net6.0\04ExerciseBMI.exe
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\bin\Debug\net6.0\04ExerciseBMI.deps.json
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\bin\Debug\net6.0\04ExerciseBMI.runtimeconfig.json
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\bin\Debug\net6.0\04ExerciseBMI.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\bin\Debug\net6.0\04ExerciseBMI.pdb
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\obj\Debug\net6.0\04ExerciseBMI.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\obj\Debug\net6.0\refint\04ExerciseBMI.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\obj\Debug\net6.0\04ExerciseBMI.pdb
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\obj\Debug\net6.0\04ExerciseBMI.genruntimeconfig.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\04ExerciseIMC\obj\Debug\net6.0\ref\04ExerciseBMI.dll

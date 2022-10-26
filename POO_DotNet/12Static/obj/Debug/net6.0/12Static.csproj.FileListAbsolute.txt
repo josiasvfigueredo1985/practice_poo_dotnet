@@ -1,0 +1,15 @@
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\bin\Debug\net6.0\12Static.exe
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\bin\Debug\net6.0\12Static.deps.json
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\bin\Debug\net6.0\12Static.runtimeconfig.json
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\bin\Debug\net6.0\12Static.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\bin\Debug\net6.0\12Static.pdb
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\obj\Debug\net6.0\12Static.csproj.AssemblyReference.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\obj\Debug\net6.0\12Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\obj\Debug\net6.0\12Static.AssemblyInfoInputs.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\obj\Debug\net6.0\12Static.AssemblyInfo.cs
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\obj\Debug\net6.0\12Static.csproj.CoreCompileInputs.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\obj\Debug\net6.0\12Static.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\obj\Debug\net6.0\refint\12Static.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\obj\Debug\net6.0\12Static.pdb
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\obj\Debug\net6.0\12Static.genruntimeconfig.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\12Static\obj\Debug\net6.0\ref\12Static.dll

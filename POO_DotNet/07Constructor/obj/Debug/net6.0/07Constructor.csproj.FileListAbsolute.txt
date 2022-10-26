@@ -1,0 +1,15 @@
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\bin\Debug\net6.0\07Constructor.exe
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\bin\Debug\net6.0\07Constructor.deps.json
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\bin\Debug\net6.0\07Constructor.runtimeconfig.json
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\bin\Debug\net6.0\07Constructor.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\bin\Debug\net6.0\07Constructor.pdb
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\obj\Debug\net6.0\07Constructor.csproj.AssemblyReference.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\obj\Debug\net6.0\07Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\obj\Debug\net6.0\07Constructor.AssemblyInfoInputs.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\obj\Debug\net6.0\07Constructor.AssemblyInfo.cs
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\obj\Debug\net6.0\07Constructor.csproj.CoreCompileInputs.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\obj\Debug\net6.0\07Constructor.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\obj\Debug\net6.0\refint\07Constructor.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\obj\Debug\net6.0\07Constructor.pdb
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\obj\Debug\net6.0\07Constructor.genruntimeconfig.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\07Constructor\obj\Debug\net6.0\ref\07Constructor.dll

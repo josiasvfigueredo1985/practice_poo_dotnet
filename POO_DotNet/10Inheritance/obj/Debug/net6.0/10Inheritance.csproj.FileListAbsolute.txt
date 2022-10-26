@@ -1,0 +1,15 @@
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\bin\Debug\net6.0\10Inheritance.exe
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\bin\Debug\net6.0\10Inheritance.deps.json
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\bin\Debug\net6.0\10Inheritance.runtimeconfig.json
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\bin\Debug\net6.0\10Inheritance.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\bin\Debug\net6.0\10Inheritance.pdb
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\obj\Debug\net6.0\10Inheritance.csproj.AssemblyReference.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\obj\Debug\net6.0\10Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\obj\Debug\net6.0\10Inheritance.AssemblyInfoInputs.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\obj\Debug\net6.0\10Inheritance.AssemblyInfo.cs
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\obj\Debug\net6.0\10Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\obj\Debug\net6.0\10Inheritance.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\obj\Debug\net6.0\refint\10Inheritance.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\obj\Debug\net6.0\10Inheritance.pdb
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\obj\Debug\net6.0\10Inheritance.genruntimeconfig.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\10Inheritance\obj\Debug\net6.0\ref\10Inheritance.dll

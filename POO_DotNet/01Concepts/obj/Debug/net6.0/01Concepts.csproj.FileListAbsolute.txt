@@ -1,0 +1,15 @@
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\bin\Debug\net6.0\01Concepts.exe
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\bin\Debug\net6.0\01Concepts.deps.json
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\bin\Debug\net6.0\01Concepts.runtimeconfig.json
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\bin\Debug\net6.0\01Concepts.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\bin\Debug\net6.0\01Concepts.pdb
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\obj\Debug\net6.0\01Concepts.csproj.AssemblyReference.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\obj\Debug\net6.0\01Concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\obj\Debug\net6.0\01Concepts.AssemblyInfoInputs.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\obj\Debug\net6.0\01Concepts.AssemblyInfo.cs
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\obj\Debug\net6.0\01Concepts.csproj.CoreCompileInputs.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\obj\Debug\net6.0\01Concepts.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\obj\Debug\net6.0\refint\01Concepts.dll
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\obj\Debug\net6.0\01Concepts.pdb
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\obj\Debug\net6.0\01Concepts.genruntimeconfig.cache
+C:\Users\jfigueredo\Documents\QA\Estudos\POO_DOT_NET\01Concepts\obj\Debug\net6.0\ref\01Concepts.dll
